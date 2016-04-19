@@ -1,0 +1,7 @@
+A:
+
+00000000004004b4 T _Z7averagePdRd
+00000000004004e2 T _Z7averageif
+
+B:
+
